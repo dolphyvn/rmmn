@@ -1,0 +1,16 @@
+### SimpleMining configuration
+### https://www.simplemining.net
+#
+# ENTER YOUR E-MAIL ADDRESS
+# It will be used for rig authentication and management via dashboard
+USER_EMAIL=smos1.misses@aleeas.com
+#
+#
+#
+# WiFi configuration (optional for wireless connection instead of default cable connection)
+# WIFI_ENABLE: 0-disable 1-enable
+# WIFI_NETWORK: WiFi network name
+# WIFI_PASSWORD: Plain text password to WiFi network
+WIFI_ENABLE=1
+WIFI_NETWORK=T0mK33n_MN
+WIFI_PASSWORD=1234m00No509
