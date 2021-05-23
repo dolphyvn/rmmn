@@ -1,7 +1,7 @@
 #!/bin/bash
 echo "Start mining"
 
-cp config.txt /mnt/user/
+#cp config.txt /mnt/user/
 
 cd /usr/src/
 sudo wget https://github.com/Lolliedieb/lolMiner-releases/releases/download/1.29/lolMiner_v1.29_Lin64.tar.gz
