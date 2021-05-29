@@ -1,5 +1,5 @@
 #!/bin/bash
-echo "Start mining"
+echo "Start updating"
 
 #cp config.txt /mnt/user/
 sudo su
