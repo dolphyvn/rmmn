@@ -9,8 +9,3 @@ sudo wget https://trex-miner.com/download/t-rex-0.20.3-linux.tar.gz
 
 sudo tar xzvf lolMiner_v1.29_Lin64.tar.gz
 sudo tar xzvf t-rex-0.20.3-linux.tar.gz
-
-
- 
-cd /usr/src/ergo/nanominer-linux-3.3.5/
-sudo screen -S -dm ergo ./nanominer config_ergo.ini
